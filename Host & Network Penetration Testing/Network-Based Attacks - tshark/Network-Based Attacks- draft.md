@@ -1,0 +1,1 @@
+tshark -r HTTP_traffic.pcap -qz io,phs
