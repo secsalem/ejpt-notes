@@ -1,0 +1,23 @@
+
+- Locate endpoints on a network
+- Identify open ports and services on a target
+- Identify operating system of a target
+- Extract company information from public sources
+- Gather email addresses from public sources
+- Gather technical information from public sources
+- Identify vulnerabilities in services
+- Evaluate information and criticality or impact of vulnerabilities
+- Compile information from files on target
+- Enumerate network information from files on target
+- Enumerate system information on target
+- Gather user account information on target
+- Transfer files to and from target
+- Gather hash/password information from target
+- Identify and modify exploits
+- Conduct exploitation with metasploit
+- Demonstrate pivoting by adding a route and by port forwarding
+- Conduct brute-force password attacks and hash cracking
+- Identify vulnerabilities in web applications
+- Locate hidden file and directories
+- Conduct brute-force login attack
+- Conduct web application reconnaissance

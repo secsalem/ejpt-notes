@@ -1,0 +1,2 @@
+- https://github.com/hunterluker/eJPT-notes/tree/master
+- https://blog.syselement.com/ine/courses/ejpt/ejpt-cheatsheet

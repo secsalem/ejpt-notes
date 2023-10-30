@@ -1,0 +1,6 @@
+- do one black box windows
+- do one black box linux
+- tryhackme rooms
+	- blue
+	- ice
+	- blaster
