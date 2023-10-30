@@ -1,0 +1,19 @@
+DNS records 
+A resolves a hostname or domain ipv4
+AAAA resolves hostname IPV6 
+NS domain namserver
+MX mail server 
+CNAME domain aliases 
+TXT text record 
+HINFO Host information
+SOA domain authoirty 
+SRV Service records 
+PTR resolves an IP address to a hostname 
+
+	DNS Interrogation 
+- enumarting DNS Records
+dnsdumpster.com
+tools for dns active recon :
+dnsenum --- active recon
+fierce 
+dig 
