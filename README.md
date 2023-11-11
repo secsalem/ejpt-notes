@@ -1,4 +1,4 @@
-![plot](./ejpt-notes/Screenshot_3.png)
+![plot](/ejpt-notes/Screenshot_3.png)
 
 
 
